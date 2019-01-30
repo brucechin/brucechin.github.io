@@ -1,2 +1,1 @@
-# brucechin.github.io
-My homepage
+Repository for Lianke Qin's academic research website.
