@@ -1,0 +1,105 @@
+layoutdir = "themes/hugo-academic-group/layouts"
+publishdir = "public"
+static = "/static"
+builddrafts = false
+# Replace this with your website URL
+baseurl = "http://ucsb-tds.github.io/"
+canonifyurls = true
+theme = "hugo-academic-group"
+title = "UCSB Trustless Data System Lab"
+math = true
+copyright = "&copy; UCSB TDS, 2020"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+
+[params]
+  description = "Website of UCSB TDS research group"
+  author = "UCSB TDS"
+  email = ""
+  address = ""
+
+  slogan = "UCSB Trustless Data System Lab"
+  slogan_text = "Trust is earned, not granted!"
+
+  # Selected Publications section.
+  [params.publications_selected]
+    detailed_list = true
+    title = "Selected Publications"
+    subtitle = ""
+
+  # Publications section.
+  # Section will only be displayed if there are publications in `content/publication/`.
+  [params.publications]
+    count = 5
+    detailed_list = false
+    title = "Publications"
+    subtitle = ""
+    str_all = "More Publications"
+
+  # Posts section.
+  # Section will only be displayed if there are posts in `content/post/`.
+  [params.posts]
+    count = 2
+    title = "Blog"
+    subtitle = ""
+    str_all = "More Posts"
+    str_read_more = "Read more"
+
+  # Projects section.
+  # Section will only be displayed if there are projects in `content/project/`.
+  [params.projects]
+    title = "Projects"
+    subtitle = ""
+    count = 3
+    str_all = "More Projects"
+  
+  # Vacancies section
+  # Section will only be displayed if there are valid vacancies in `content/vacancy`
+  [params.vacancies]
+    title = "Vacancies"
+    subtitle = ""
+    count = 3
+    str_all = "More Vacancies"
+
+  # Contact section.
+  [params.contact]
+    enable = true
+    title = "Contact"
+    subtitle = ""
+    autolink = false  # Automatically link email and phone?
+
+  # Navigation Links
+  #   The weight parameter defines the order that the links will appear in.
+
+  [[menu.main]]
+      name = "Home"
+      url = "/#top"
+      weight = 1
+
+  [[menu.main]]
+      name = "Research"
+      url = "/research"
+      weight = 2
+
+  [[menu.main]]
+      name = "Publications"
+      url = "/#publications"
+      weight = 3
+
+    [[menu.main]]
+      name = "Projects"
+      url = "/#projects"
+      weight = 4
+
+  [[menu.main]]
+      name = "Members"
+      url = "/#members"
+      weight = 5
+
+  [[menu.main]]
+      name = "Contact"
+      url = "/#contact"
+      weight = 8

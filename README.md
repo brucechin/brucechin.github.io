@@ -1,1 +1,2 @@
-Repository for Lianke Qin's academic research website.
+# ucsb-tds.github.io
+Trustless Data Systems Lab @ UCSB
