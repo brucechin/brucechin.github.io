@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UCSB Trustless Data System Lab</title>
+    <link>http://ucsb-tds.github.io/</link>
+    <description>Recent content on UCSB Trustless Data System Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; UCSB TDS, 2020</copyright>
+    <lastBuildDate>Tue, 12 May 2020 16:10:22 +0200</lastBuildDate>
+    
+	<atom:link href="http://ucsb-tds.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Database</title>
+      <link>http://ucsb-tds.github.io/project/database/</link>
+      <pubDate>Tue, 12 May 2020 16:10:22 +0200</pubDate>
+      
+      <guid>http://ucsb-tds.github.io/project/database/</guid>
+      <description> database </description>
+    </item>
+    
+    <item>
+      <title>Lianke Qin</title>
+      <link>http://ucsb-tds.github.io/member/member2/</link>
+      <pubDate>Tue, 12 May 2020 15:52:22 +0200</pubDate>
+      
+      <guid>http://ucsb-tds.github.io/member/member2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>http://ucsb-tds.github.io/publication/learning/</link>
+      <pubDate>Tue, 12 Jul 2016 16:37:31 +0200</pubDate>
+      
+      <guid>http://ucsb-tds.github.io/publication/learning/</guid>
+      <description>You can add information in $\LaTeX$ and Markdown here.</description>
+    </item>
+    
+    <item>
+      <title>Member 3</title>
+      <link>http://ucsb-tds.github.io/member/member3/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://ucsb-tds.github.io/member/member3/</guid>
+      <description> Minyae adgnoscitque fugiebat parentis ausum superos huius </description>
+    </item>
+    
+    <item>
+      <title>Shumo Chu</title>
+      <link>http://ucsb-tds.github.io/member/member1/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://ucsb-tds.github.io/member/member1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jupyter Notebook</title>
+      <link>http://ucsb-tds.github.io/post/notebook/</link>
+      <pubDate>Tue, 12 Jul 2016 15:50:58 +0200</pubDate>
+      
+      <guid>http://ucsb-tds.github.io/post/notebook/</guid>
+      <description>An IJulia Preview This notebook is a preview demo of IJulia: a Julia-language backend combined with the IPython interactive environment. This combination allows you to interact with the Julia language using IPython&amp;rsquo;s powerful graphical notebook, which combines code, formatted text, math, and multimedia in a single document.
+ Note: this is a preview, because it relies on pre-release bleeding-edge versions of Julia, IPython, and several Julia packages, as explained on the IJulia github page, and functionality is evolving rapidly.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://ucsb-tds.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ucsb-tds.github.io/about/</guid>
+      <description>ABOUT Yet another CS lab</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://ucsb-tds.github.io/approach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ucsb-tds.github.io/approach/</guid>
+      <description> Et malis vellet tellus deseruere in credant </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://ucsb-tds.github.io/mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ucsb-tds.github.io/mission/</guid>
+      <description> Auras queritur facientes dixit venti sustinui </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://ucsb-tds.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ucsb-tds.github.io/research/</guid>
+      <description> Research </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://ucsb-tds.github.io/vacancy/vacancy1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ucsb-tds.github.io/vacancy/vacancy1/</guid>
+      <description>hello world!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vacancies on UCSB Trustless Data System Lab</title>
+    <link>http://ucsb-tds.github.io/vacancy/</link>
+    <description>Recent content in Vacancies on UCSB Trustless Data System Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; UCSB TDS, 2020</copyright>
+    
+	<atom:link href="http://ucsb-tds.github.io/vacancy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://ucsb-tds.github.io/vacancy/vacancy1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ucsb-tds.github.io/vacancy/vacancy1/</guid>
+      <description>hello world!</description>
+    </item>
+    
+  </channel>
+</rss>
